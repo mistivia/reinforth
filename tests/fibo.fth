@@ -1,4 +1,4 @@
-( Copyright (C) 2023 Mistivia <mistivia@soverin.net> )
+( Copyright (C) 2023 Mistivia <i@mistivia.com> )
 ( Licensed under AGPLv3. See LICENSE for details. )
 
 : fibo ( recursive fibonacci )
